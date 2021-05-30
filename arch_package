@@ -1,0 +1,7 @@
+
+# Trust keys
+gpg --recv-key <KEYID>
+
+git clone <arch repository>
+makepkg#inside folder to create packege for manjaro
+sudo pacman -U filename.pkg.tar.gs

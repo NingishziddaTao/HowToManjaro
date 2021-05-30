@@ -1,0 +1,3 @@
+debtab - u#initiate
+debtab -U package#axtract deb package
+debtab -U *#install deb package
